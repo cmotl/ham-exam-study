@@ -1,4 +1,8 @@
-# Ham Exam Study
+# Sideband
+
+*Your study companion on the side of the band.*
+
+In ham radio, a sideband carries the signal alongside the main carrier. **Sideband** is your companion alongside the official ARRL question pools — always there to help you study, practice, and pass.
 
 A web-based study guide and practice exam app for ARRL amateur radio license exams. Consumes structured JSON question pool files produced by [ham_exam_parser](../ham_exam_parser).
 

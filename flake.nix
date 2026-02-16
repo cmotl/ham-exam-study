@@ -1,5 +1,5 @@
 {
-  description = "Ham Exam Study - React SPA";
+  description = "Sideband - Ham radio exam study app";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
