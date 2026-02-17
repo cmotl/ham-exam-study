@@ -15,6 +15,7 @@
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
             git
+            neovim
             nodejs_22
           ];
         };
