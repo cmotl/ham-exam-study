@@ -1,17 +1,17 @@
 export const POOLS = [
   {
-    id: 'technician_2026-2030',
-    label: 'Technician',
-    years: '2026–2030',
-    file: `${import.meta.env.BASE_URL}data/technician_2026-2030.json`,
-    examQuestions: 35,
-    passingScore: 26,
-  },
-  {
     id: 'technician_2022-2026',
     label: 'Technician',
     years: '2022–2026',
     file: `${import.meta.env.BASE_URL}data/technician_2022-2026.json`,
+    examQuestions: 35,
+    passingScore: 26,
+  },
+  {
+    id: 'technician_2026-2030',
+    label: 'Technician',
+    years: '2026–2030',
+    file: `${import.meta.env.BASE_URL}data/technician_2026-2030.json`,
     examQuestions: 35,
     passingScore: 26,
   },
